@@ -1284,3 +1284,2846 @@
 2021-01-29 20:17:35,249 - logs… - INFO - ��ͭ9"·*Nhttps://p-cdn.telescope.vip/pepper/avatar/120284824/20210116-1610782430156.jpg0bCNpx������	���d��P�����      T@�      Y@��zh-CN�����.�������.���B
 2021-01-29 20:17:51,436 - logs… - INFO - ��ͭ9"·*Nhttps://p-cdn.telescope.vip/pepper/avatar/120284824/20210116-1610782430156.jpg0bCNpx������	���d��P�����      T@�      Y@��zh-CN�����.�������.���B
 2021-01-29 20:18:17,707 - logs… - INFO - ��ͭ9"·*Nhttps://p-cdn.telescope.vip/pepper/avatar/120284824/20210116-1610782430156.jpg0bCNpx������	���d��P�����      T@�      Y@��zh-CN�����.�������.���B
+2022-11-14 16:50:32,789 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668415833329,
+  "success": false
+}
+2022-11-14 16:51:16,611 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668415877157,
+  "success": false
+}
+2022-11-14 16:52:37,189 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668415957733,
+  "success": false
+}
+2022-11-14 16:54:20,551 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416061098,
+  "success": false
+}
+2022-11-14 16:56:28,762 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416189302,
+  "success": false
+}
+2022-11-14 16:58:15,711 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416296049,
+  "success": false
+}
+2022-11-14 17:00:14,347 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416414894,
+  "success": false
+}
+2022-11-14 17:01:13,050 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416473593,
+  "success": false
+}
+2022-11-14 17:09:17,652 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416957995,
+  "success": false
+}
+2022-11-14 17:09:42,730 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668416983075,
+  "success": false
+}
+2022-11-14 17:10:00,648 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668417001207,
+  "success": false
+}
+2022-11-14 17:35:24,508 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668418525089,
+  "success": false
+}
+2022-11-14 17:35:35,454 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668418536029,
+  "success": false
+}
+2022-11-14 17:36:20,316 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668418580902,
+  "success": false
+}
+2022-11-14 17:39:21,150 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668418761737,
+  "success": false
+}
+2022-11-14 17:40:17,451 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668418818042,
+  "success": false
+}
+2022-11-14 17:44:55,714 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419096305,
+  "success": false
+}
+2022-11-14 17:45:00,754 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419101344,
+  "success": false
+}
+2022-11-14 17:45:38,743 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419139322,
+  "success": false
+}
+2022-11-14 17:45:40,505 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419141084,
+  "success": false
+}
+2022-11-14 17:48:03,366 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419283960,
+  "success": false
+}
+2022-11-14 17:50:04,684 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419405279,
+  "success": false
+}
+2022-11-14 17:50:07,533 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419408127,
+  "success": false
+}
+2022-11-14 17:50:09,177 - logs… - INFO - {
+  "code": -500121,
+  "message": "登录失败",
+  "serverTime": 1668419409762,
+  "success": false
+}
+2022-11-14 18:34:32,383 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554268549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86238681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668422072853,
+  "success": true
+}
+2022-11-14 18:34:43,104 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554267049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86240181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668422083600,
+  "success": true
+}
+2022-11-15 14:14:23,625 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554265549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86241681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668492863158,
+  "success": true
+}
+2022-11-15 14:25:16,932 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554264049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86243181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493516754,
+  "success": true
+}
+2022-11-15 14:29:32,723 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554262549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86244681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493772591,
+  "success": true
+}
+2022-11-15 14:29:47,101 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554261049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86246181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493786962,
+  "success": true
+}
+2022-11-15 14:31:56,150 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554259549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86247681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493916017,
+  "success": true
+}
+2022-11-15 14:32:03,296 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554258049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86249181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493923160,
+  "success": true
+}
+2022-11-15 14:32:13,450 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554256549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86250681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668493933318,
+  "success": true
+}
+2022-11-15 14:38:51,643 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554255049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86252181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668494331434,
+  "success": true
+}
+2022-11-15 14:39:24,692 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554253549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86253681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668494364555,
+  "success": true
+}
+2022-11-15 14:41:33,070 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554252049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86255181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668494492940,
+  "success": true
+}
+2022-11-15 14:41:54,465 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554250549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86256681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668494514278,
+  "success": true
+}
+2022-11-15 14:45:00,754 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554249049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86258181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668494700584,
+  "success": true
+}
+2022-11-15 14:51:22,157 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554247549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86259681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495082031,
+  "success": true
+}
+2022-11-15 14:52:06,499 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554246049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86261181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495126390,
+  "success": true
+}
+2022-11-15 14:53:50,045 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554244549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86262681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495229925,
+  "success": true
+}
+2022-11-15 14:54:41,273 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554243049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86264181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495281135,
+  "success": true
+}
+2022-11-15 14:58:13,066 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554241549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86265681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495492881,
+  "success": true
+}
+2022-11-15 14:58:34,423 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554240049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86267181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495514316,
+  "success": true
+}
+2022-11-15 14:58:57,413 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554238549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86268681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495537302,
+  "success": true
+}
+2022-11-15 14:59:09,128 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554237049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86270181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495549011,
+  "success": true
+}
+2022-11-15 14:59:33,911 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554235549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86271681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495573748,
+  "success": true
+}
+2022-11-15 15:00:36,688 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554234049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86273181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668495636544,
+  "success": true
+}
+2022-11-15 15:08:03,176 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554232549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86274681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496083040,
+  "success": true
+}
+2022-11-15 15:08:26,544 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554231049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86276181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496106419,
+  "success": true
+}
+2022-11-15 15:08:35,239 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554229549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 199,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40045,
+          "gname": "甜心胶囊",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86277681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496115123,
+  "success": true
+}
+2022-11-15 15:09:35,812 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554228049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4",
+          "bagCount": 0,
+          "barrageUrl": "https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 1599,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40036,
+          "gname": "追爱豪车",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/love_car.png",
+          "nickname": "ttt",
+          "serverBroadcast": 1,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86279181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496175579,
+  "success": true
+}
+2022-11-15 15:10:05,112 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554226549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86280681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496204373,
+  "success": true
+}
+2022-11-15 15:10:21,116 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554225049,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86282181,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496220964,
+  "success": true
+}
+2022-11-15 15:10:29,821 - logs… - INFO - {
+  "code": 200,
+  "data": {
+    "bossType": 0,
+    "coin": 139996980,
+    "diamond": 554223549,
+    "giftInfo": {
+      "amUrl": "",
+      "bagCount": 0,
+      "barrageUrl": "",
+      "disableIcon": "",
+      "fontColour": "#FFC821",
+      "gcoinPrice": 0,
+      "gdiamondPrice": 1500,
+      "ghierarchy": 1,
+      "giftDiscount": "0",
+      "giftFloatDetail": "gift_box_notice_sliver",
+      "giftFloatPic": "https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png",
+      "giftGotoUrl": "https://h5game.koudailive.com/webpage/#/treasureChest",
+      "giftId": 43016,
+      "gname": "银宝箱",
+      "gsubType": 0,
+      "gtype": 6,
+      "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+      "height": 0,
+      "icon": "https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png",
+      "nickname": "ttt",
+      "serverBroadcast": 0,
+      "userId": 2005,
+      "vipLevel": 0,
+      "width": 0,
+      "y": 0
+    },
+    "toPersonGiftInfos": [
+      {
+        "giftInfo": {
+          "amUrl": "https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4",
+          "bagCount": 0,
+          "barrageUrl": "",
+          "disableIcon": "",
+          "fontColour": "#093548",
+          "gcoinPrice": 0,
+          "gdiamondPrice": 200,
+          "ghierarchy": 1,
+          "giftDiscount": "0",
+          "giftId": 40044,
+          "gname": "要抱抱",
+          "gsubType": 0,
+          "gtype": 1,
+          "headIcon": "https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg",
+          "height": 360,
+          "icon": "https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png",
+          "nickname": "ttt",
+          "serverBroadcast": 0,
+          "userId": 2005,
+          "vipLevel": 0,
+          "width": 360,
+          "y": 10
+        },
+        "person": {
+          "listStealth": 0,
+          "mysteriousNickname": "神秘人",
+          "nickname": "中国",
+          "roomStealth": 0,
+          "userId": 1813
+        }
+      }
+    ],
+    "toUserInfo": [
+      {
+        "listStealth": 0,
+        "mysteriousNickname": "神秘人",
+        "nickname": "中国",
+        "roomStealth": 0,
+        "userId": 1813
+      }
+    ],
+    "voiceMode": 0,
+    "wealthExp": 86283681,
+    "wealthExpNow": 6872165,
+    "wealthExpUpgrade": 0,
+    "wealthLevel": 100
+  },
+  "serverTime": 1668496229618,
+  "success": true
+}
+2022-11-15 15:12:27,798 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554222049, 'wealthLevel': 100, 'wealthExp': 86285181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496347590}
+2022-11-15 15:14:52,393 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554220549, 'wealthLevel': 100, 'wealthExp': 86286681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496492229}
+2022-11-15 15:16:03,579 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554219049, 'wealthLevel': 100, 'wealthExp': 86288181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40022, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sea_star.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sea_star.webp', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/star_moon_array.webp', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'gname': '海洋之星', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 52000, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496563464}
+2022-11-15 15:16:27,764 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554217549, 'wealthLevel': 100, 'wealthExp': 86289681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496587667}
+2022-11-15 15:17:12,196 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554216049, 'wealthLevel': 100, 'wealthExp': 86291181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496632023}
+2022-11-15 15:19:14,733 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554214549, 'wealthLevel': 100, 'wealthExp': 86292681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496754621}
+2022-11-15 15:19:26,375 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554213049, 'wealthLevel': 100, 'wealthExp': 86294181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496766230}
+2022-11-15 15:20:37,920 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554211549, 'wealthLevel': 100, 'wealthExp': 86295681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496837829}
+2022-11-15 15:20:54,103 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554210049, 'wealthLevel': 100, 'wealthExp': 86297181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496853995}
+2022-11-15 15:21:28,029 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554208549, 'wealthLevel': 100, 'wealthExp': 86298681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496887824}
+2022-11-15 15:22:44,843 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554207049, 'wealthLevel': 100, 'wealthExp': 86300181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40022, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sea_star.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sea_star.webp', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/star_moon_array.webp', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'gname': '海洋之星', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 52000, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496964721}
+2022-11-15 15:23:03,954 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554205549, 'wealthLevel': 100, 'wealthExp': 86301681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496983845}
+2022-11-15 15:23:12,710 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554204049, 'wealthLevel': 100, 'wealthExp': 86303181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668496992605}
+2022-11-15 15:23:33,179 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554202549, 'wealthLevel': 100, 'wealthExp': 86304681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497013084}
+2022-11-15 15:23:57,294 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554201049, 'wealthLevel': 100, 'wealthExp': 86306181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497037148}
+2022-11-15 15:26:50,738 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554199549, 'wealthLevel': 100, 'wealthExp': 86307681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497210583}
+2022-11-15 15:26:57,943 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554198049, 'wealthLevel': 100, 'wealthExp': 86309181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497217753}
+2022-11-15 15:27:13,549 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554196549, 'wealthLevel': 100, 'wealthExp': 86310681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497233453}
+2022-11-15 15:28:26,288 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554195049, 'wealthLevel': 100, 'wealthExp': 86312181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497306199}
+2022-11-15 15:31:28,558 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554193549, 'wealthLevel': 100, 'wealthExp': 86313681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497488462}
+2022-11-15 15:37:50,662 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554192049, 'wealthLevel': 100, 'wealthExp': 86315181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497870536}
+2022-11-15 15:38:50,110 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554190549, 'wealthLevel': 100, 'wealthExp': 86316681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497930024}
+2022-11-15 15:39:17,985 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554189049, 'wealthLevel': 100, 'wealthExp': 86318181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497957820}
+2022-11-15 15:39:56,477 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554187549, 'wealthLevel': 100, 'wealthExp': 86319681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668497996393}
+2022-11-15 15:41:10,651 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554186049, 'wealthLevel': 100, 'wealthExp': 86321181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498070548}
+2022-11-15 15:41:16,678 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554184549, 'wealthLevel': 100, 'wealthExp': 86322681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498076575}
+2022-11-15 15:41:37,362 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554183049, 'wealthLevel': 100, 'wealthExp': 86324181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498097253}
+2022-11-15 15:41:45,551 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554181549, 'wealthLevel': 100, 'wealthExp': 86325681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40036, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/love_car.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/love_car.mp4', 'barrageUrl': 'https://cos.koudailive.com/image/gift/barrage/boss/sand_giant.webp', 'fontColour': '#093548', 'serverBroadcast': 1, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '追爱豪车', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 1599, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498105418}
+2022-11-15 15:42:08,309 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554180049, 'wealthLevel': 100, 'wealthExp': 86327181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498128124}
+2022-11-15 15:42:28,360 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554178549, 'wealthLevel': 100, 'wealthExp': 86328681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498148285}
+2022-11-15 15:44:43,745 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554177049, 'wealthLevel': 100, 'wealthExp': 86330181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498283557}
+2022-11-15 15:45:23,386 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554175549, 'wealthLevel': 100, 'wealthExp': 86331681, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40044, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/cute_embrace.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/cute_embrace.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '要抱抱', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 200, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498323304}
+2022-11-15 15:45:26,062 - logs… - INFO - {'success': True, 'code': 200, 'data': {'coin': 139996980, 'diamond': 554174049, 'wealthLevel': 100, 'wealthExp': 86333181, 'wealthExpUpgrade': 0, 'wealthExpNow': 6872165, 'toUserInfo': [{'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}], 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 43016, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/box_sliver.png', 'disableIcon': '', 'amUrl': '', 'barrageUrl': '', 'fontColour': '#FFC821', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 0, 'width': 0, 'y': 0, 'bagCount': 0, 'giftDiscount': '0', 'giftFloatPic': 'https://image.pocketliveapp.com/image/activity/ChatRoom/gift_notice_banner.png', 'giftFloatDetail': 'gift_box_notice_sliver', 'giftGotoUrl': 'https://h5game.koudailive.com/webpage/#/treasureChest', 'gname': '银宝箱', 'gsubType': 0, 'gtype': 6, 'gdiamondPrice': 1500, 'gcoinPrice': 0, 'ghierarchy': 1}, 'toPersonGiftInfos': [{'person': {'userId': 1813, 'nickname': '中国', 'listStealth': 0, 'roomStealth': 0, 'mysteriousNickname': '神秘人'}, 'giftInfo': {'userId': 2005, 'nickname': 'ttt', 'headIcon': 'https://cos.koudailive.com/image/photo/20220819/16d0f412a64641d1aa9bcec4bfeffad2.jpg', 'giftId': 40045, 'icon': 'https://cos.koudailive.com/image/gift/icon/normal/sweet_capsule.png', 'disableIcon': '', 'amUrl': 'https://cos.koudailive.com/image/gift/animation/normal/sweet_capsule.mp4', 'barrageUrl': '', 'fontColour': '#093548', 'serverBroadcast': 0, 'vipLevel': 0, 'height': 360, 'width': 360, 'y': 10, 'bagCount': 0, 'giftDiscount': '0', 'gname': '甜心胶囊', 'gsubType': 0, 'gtype': 1, 'gdiamondPrice': 199, 'gcoinPrice': 0, 'ghierarchy': 1}}], 'voiceMode': 0, 'bossType': 0}, 'serverTime': 1668498325966}
