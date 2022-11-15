@@ -77,19 +77,17 @@ if __name__ == '__main__':#通过写死参数，来验证我们写的请求是�
     }
     params = {'uid': '2005', 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJNakF3TlE9PSIsInh5eiI6IlFURXdOMFE0TWtJdE0wVkROaTAwTWpVeExUazFOVGt0TmtRNU9FSTVRVVExTjBOQyIsImV4cCI6MTkyNDQwMDA0OX0.--fH2wg9y64EOIfATAIxb1wAuQMPOS6wzMnfaejb4Pg'}
 
-
-    # results = requests.post(url=hots+url, data=json.dumps(data), headers = headers, params= params).json()
-    # res = json.dumps(results, ensure_ascii=False, sort_keys=True, indent=2)
-    result = RunMain().run_main('post', hots+url+'uid='+uid+'&token='+token, json.dumps(data))
-    # login_res = json.dumps(result.json(), ensure_ascii=False, sort_keys=True, indent=2)
-    logger.info(result)
-    # print(json.dumps(result, ensure_ascii=False, sort_keys=True, indent=2))
-    # title=['zhuangbei','time']
-    giftId = (jsonpath.jsonpath(result, '$.data.toPersonGiftInfos[*].giftInfo.giftId'))
-    serverTime = (jsonpath.jsonpath(result, '$.serverTime'))
-    giftId = giftId+serverTime
-    RunMain().set_csv(giftId)
-    print(giftId)
+    number=10
+    for i in range(number):
+        result = RunMain().run_main('post', hots+url+'uid='+uid+'&token='+token, json.dumps(data))
+        # login_res = json.dumps(result.json(), ensure_ascii=False, sort_keys=True, indent=2)
+        logger.info(result)
+        # print(json.dumps(result, ensure_ascii=False, sort_keys=True, indent=2))
+        giftId = (jsonpath.jsonpath(result, '$.data.toPersonGiftInfos[*].giftInfo.giftId'))
+        serverTime = (jsonpath.jsonpath(result, '$.serverTime'))
+        giftId = giftId+serverTime
+        RunMain().set_csv(giftId)
+        print(giftId)
 
 
 
