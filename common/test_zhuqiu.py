@@ -52,6 +52,17 @@ class RunMain():
             print("method值错误！！！")
             logger.info("method值错误！！！")
         return result
+
+    def set_csv(self, data =None):
+        with open(log_path + "/pocket.csv", "a+", newline='', encoding='utf-8') as w_file:
+            writer = csv.writer(w_file)
+            # 写入标题
+            # writer.writeheader()
+            # 将数据写入
+            writer.writerow(data)
+            w_file.close()
+
+
 if __name__ == '__main__':#通过写死参数，来验证我们写的请求是否正确
     hots = 'https://dev.api.koudailive.com'
     url = '/api/trade/gift/giveGiftsBaoxiang?'
@@ -71,19 +82,15 @@ if __name__ == '__main__':#通过写死参数，来验证我们写的请求是�
     # res = json.dumps(results, ensure_ascii=False, sort_keys=True, indent=2)
     result = RunMain().run_main('post', hots+url+'uid='+uid+'&token='+token, json.dumps(data))
     # login_res = json.dumps(result.json(), ensure_ascii=False, sort_keys=True, indent=2)
-    print(json.dumps(result, ensure_ascii=False, sort_keys=True, indent=2))
+    logger.info(result)
+    # print(json.dumps(result, ensure_ascii=False, sort_keys=True, indent=2))
     # title=['zhuangbei','time']
-    with open(log_path+"/pocket.csv", "a+", newline='', encoding='utf-8') as w_file:
-        writer = csv.writer(w_file)
-        # 写入标题
-        # writer.writeheader()
-        # 将数据写入
-        giftId = (jsonpath.jsonpath(result, '$.data.toPersonGiftInfos[*].giftInfo.giftId'))
-        serverTime = (jsonpath.jsonpath(result, '$.serverTime'))
-        giftId = giftId+serverTime
-        print(giftId)
-        writer.writerow(giftId)
-        w_file.close()
+    giftId = (jsonpath.jsonpath(result, '$.data.toPersonGiftInfos[*].giftInfo.giftId'))
+    serverTime = (jsonpath.jsonpath(result, '$.serverTime'))
+    giftId = giftId+serverTime
+    RunMain().set_csv(giftId)
+    print(giftId)
+
 
 
 
