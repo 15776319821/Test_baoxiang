@@ -26,20 +26,20 @@ class RunMain():
     def run_main(self, method, url=None, data=None):#定义一个run_main函数，通过传过来的method来进行不同的get或post请求
         result = None
         headers = {
-        "version": "1.9.0",
-        "accept": "*/*",
-        "fid": "0",
-        "Content-Type": "application/json",
-        "shumeiid": "AsssBT",
-        "os": "2",
-        "accept-language": "zh-Hans-CN;q=1, ar-CN;q=0.9, en-CN;q=0.8, zh-Hant-CN;q=0.7",
-        "accept-encoding": "gzip, deflate, br",
-        "deviceid": "A107D82B-3EC6-4251-9559-6D98B9AD57CB",
-        "user-agent": "Pocket/1.9.0 (iPhone; iOS 14.8.1; Scale/3.00)",
-        "lang": "zh_CN",
-        "distinctid": "E71038ED-F200-4BE7-95AE-CA8CF92392EE_31",
-        "model": "iPhone_X_14.8.1"
-    }
+            "version": "1.9.0",
+            "accept": "*/*",
+            "fid": "0",
+            "Content-Type": "application/json",
+            "shumeiid": "AsssBT",
+            "os": "2",
+            "accept-language": "zh-Hans-CN;q=1, ar-CN;q=0.9, en-CN;q=0.8, zh-Hant-CN;q=0.7",
+            "accept-encoding": "gzip, deflate, br",
+            "deviceid": "A107D82B-3EC6-4251-9559-6D98B9AD57CB",
+            "user-agent": "Pocket/1.9.0 (iPhone; iOS 14.8.1; Scale/3.00)",
+            "lang": "zh_CN",
+            "distinctid": "E71038ED-F200-4BE7-95AE-CA8CF92392EE_31",
+            "model": "iPhone_X_14.8.1"
+        }
         # time.sleep(5)
 
         if method == 'post':
