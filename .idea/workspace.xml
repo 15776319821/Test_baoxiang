@@ -22,10 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e92bbab-2a44-44f6-ad11-d8ece45bf83a" name="Default Changelist" comment="测试宝箱中奖概率脚本">
+    <list default="true" id="8e92bbab-2a44-44f6-ad11-d8ece45bf83a" name="Default Changelist" comment="最简单的中奖概率计算">
+      <change afterPath="$PROJECT_DIR$/common/test_choujiang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/logs.2022-11-16" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/test_zhuqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test_zhuqiu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/logs" beforeDir="false" afterPath="$PROJECT_DIR$/result/logs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/pocket.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pocket.csv" afterDir="false" />
     </list>
@@ -95,7 +96,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "D:/Test",
+    "last_opened_file_path": "D:/Test/common",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -284,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668503169380</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="最简单的中奖概率计算">
+      <created>1668583715744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668583715744</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +306,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
@@ -311,7 +319,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="测试宝箱中奖概率脚本" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试宝箱中奖概率脚本" />
+    <MESSAGE value="最简单的中奖概率计算" />
+    <option name="LAST_COMMIT_MESSAGE" value="最简单的中奖概率计算" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
