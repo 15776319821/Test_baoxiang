@@ -22,10 +22,10 @@ class RunMain():
 
 
 if __name__ == '__main__':
-        hots = 'https://dev.api.koudailive.com'
+        hots = 'http://dev.laylachat.com'
         url = '/api/trade/ld/drew?'
-        uid = '2005'
-        token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJNakF3TlE9PSIsInh5eiI6IlFURXdOMFE0TWtJdE0wVkROaTAwTWpVeExUazFOVGt0TmtRNU9FSTVRVVExTjBOQyIsImV4cCI6MTkyNDQwMDA0OX0.--fH2wg9y64EOIfATAIxb1wAuQMPOS6wzMnfaejb4Pg'
+        uid = '790761'
+        token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJOemt3TnpZeCIsInh5eiI6Ik5UbGxPV0k0WlRVeVlqY3dOR1U0TUdGaE5ERXhZVFkxWVRNMFltWXpORFU9IiwiZXhwIjoxOTQ1NzM4MTcyfQ.xlS7CZbEiIzRJ2rWI8c1dfUAAl4_MdhHif-Xxk2gpiw'
         # data = {
         #     "roomId": 100455,
         #     "count": 1,
@@ -34,19 +34,25 @@ if __name__ == '__main__':
         #     "giftId": 43016
         # }
         headers = {
-            "version": "1.9.0",
-            "accept": "*/*",
-            "fid": "0",
-            "Content-Type": "application/json",
-            "shumeiid": "AsssBT",
-            "os": "2",
-            "accept-language": "zh-Hans-CN;q=1, ar-CN;q=0.9, en-CN;q=0.8, zh-Hant-CN;q=0.7",
-            "accept-encoding": "gzip, deflate, br",
-            "deviceid": "A107D82B-3EC6-4251-9559-6D98B9AD57CB",
-            "user-agent": "Pocket/1.9.0 (iPhone; iOS 14.8.1; Scale/3.00)",
-            "lang": "zh_CN",
-            "distinctid": "E71038ED-F200-4BE7-95AE-CA8CF92392EE_31",
-            "model": "iPhone_X_14.8.1"
+            "deviceId": "59e9b8e52b704e80aa411a65a34bf345",
+            "lang": "es_ES",
+            "cc":"cn" ,
+            "version": "1.1.0",
+            "os": "1",
+            "model": "SM-G973U1",
+            "buyUser": "0",
+            "advertisingId": "9f230806-fecc-46dc-af59-fd1020923449",
+            "appsFlyerId": "1685934141372-7242749009515216363",
+            "distinctId": "baaf472a-9e20-4e81-b56e-f083daf155a2",
+            "fid": "2001",
+            "shumeiId": "BpwrPGqhX1huTkNZeYOIYrZEe30tgE8/Zu/cm4arxxW/gFE0DszuQTcEwPVQmqz4gK58AFx0jNn9pdZ3rTsLf/g==",
+            "Content-Type": "application/json; charset=UTF-8",
+            "Content-Length": "117",
+            "Host": "dev.laylachat.com",
+            "Accept-Encoding": "gzip",
+            "Cookie": "JSESSIONID=04C7FB63A69D6C2B82B2905186307DBC",
+            "User-Agent": "okhttp/3.12.13",
+            "Connection": "keep-alive"
         }
         # params = {'uid': '2005', 'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJNakF3TlE9PSIsInh5eiI6IlFURXdOMFE0TWtJdE0wVkROaTAwTWpVeExUazFOVGt0TmtRNU9FSTVRVVExTjBOQyIsImV4cCI6MTkyNDQwMDA0OX0.--fH2wg9y64EOIfATAIxb1wAuQMPOS6wzMnfaejb4Pg'}
         number=10000

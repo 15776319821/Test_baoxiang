@@ -23,12 +23,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e92bbab-2a44-44f6-ad11-d8ece45bf83a" name="Default Changelist" comment="最简单的中奖概率计算">
-      <change afterPath="$PROJECT_DIR$/common/test_choujiang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result/logs.2022-11-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/luckyGift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/logs.2022-11-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/logs.2023-06-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/logs.2023-06-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/logs.2023-06-29" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift-2023-06-14.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift-2024-01-11_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift-2024-01-12_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift-2024-01-18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift2024-01-19-11-53-36.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift2024-01-19-11-54-06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result/luckGift_2024-01-19-11-55-06.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/configEmail.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/common/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/test_choujiang.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test_choujiang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/test_zhuqiu.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/test_zhuqiu.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/result/logs" beforeDir="false" afterPath="$PROJECT_DIR$/result/logs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result/pocket.csv" beforeDir="false" afterPath="$PROJECT_DIR$/result/pocket.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/logs.2020-12-10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/pocket.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,19 +110,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "D:/Test/common",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Test/result&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Test\result" />
+      <recent name="D:\Test\common" />
       <recent name="D:\Test" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/testFile/case" />
-      <recent name="$PROJECT_DIR$/testCase" />
-      <recent name="C:\Users\songlihui\PycharmProjects\dkxinterfaceTest\common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -116,8 +134,8 @@
       <recent name="E:\py\interfaceTest\testFile\case" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="readExcel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.luckyGift">
+    <configuration name="Log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dkxinterfaceTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readExcel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/Log.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="readExcelToJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="luckyGift" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="dkxinterfaceTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,33 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readExcelToJson.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="readMysql_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="dkxinterfaceTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readMysql_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/luckyGift.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,6 +190,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_choujiang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dkxinterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/test_choujiang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,19 +241,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Log" />
+      <item itemvalue="Python.luckyGift" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.test_choujiang" />
       <item itemvalue="Python.test_zhuqiu" />
-      <item itemvalue="Python.readExcelToJson" />
-      <item itemvalue="Python.readExcel" />
-      <item itemvalue="Python.readMysql_test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.luckyGift" />
+        <item itemvalue="Python.Log" />
         <item itemvalue="Python.test_zhuqiu" />
-        <item itemvalue="Python.readMysql_test" />
-        <item itemvalue="Python.readExcel" />
-        <item itemvalue="Python.readExcelToJson" />
+        <item itemvalue="Python.test_choujiang" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -292,11 +308,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668583715744</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="最简单的中奖概率计算基础提交">
+      <created>1668777832086</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668777832086</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -320,7 +346,8 @@
     <MESSAGE value="Default Changelist" />
     <MESSAGE value="测试宝箱中奖概率脚本" />
     <MESSAGE value="最简单的中奖概率计算" />
-    <option name="LAST_COMMIT_MESSAGE" value="最简单的中奖概率计算" />
+    <MESSAGE value="最简单的中奖概率计算基础提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="最简单的中奖概率计算基础提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
